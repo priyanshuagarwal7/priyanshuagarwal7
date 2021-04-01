@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshuagarwal7
 - 👀 I’m interested in web development and competetive coding
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning django for backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
